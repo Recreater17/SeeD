@@ -1,0 +1,24 @@
+#game-board {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#board-table {
+  border-collapse: collapse;
+}
+
+#board-table td {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+.red-piece {
+  background-color: red;
+  border-radius: 50%;
+}
+
+.blue-piece {
+  background-color: blue;
+  border-radius: 50%;
+}
